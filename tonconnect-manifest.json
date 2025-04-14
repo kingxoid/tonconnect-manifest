@@ -4,4 +4,21 @@
   "iconUrl": "https://d7a4-102-88-108-214.ngrok-free.app/static/icon.png",
   "termsOfUseUrl": "https://fragment.com/terms",
   "privacyPolicyUrl": "https://fragment.com/privacy"
+  "wallets": [
+    {
+      "name": "TonKeeper",
+      "icon": "https://link_to_tonkeeper_icon.png",
+      "uri": "tonconnect://open?app=tonkeeper"
+    },
+    {
+      "name": "TonHub",
+      "icon": "https://link_to_tonhub_icon.png",
+      "uri": "tonconnect://open?app=tonhub"
+    },
+    {
+      "name": "AnotherWallet",
+      "icon": "https://link_to_another_wallet_icon.png",
+      "uri": "tonconnect://open?app=anotherwallet"
+    }
+  ]
 }
