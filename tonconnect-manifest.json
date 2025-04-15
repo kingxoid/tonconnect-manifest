@@ -1,8 +1,8 @@
 {
+  "manifest_version": "1",
   "url": "https://fragment.com",
   "name": "Fragment",
   "iconUrl": "https://d7a4-102-88-108-214.ngrok-free.app/static/icon.png",
   "termsOfUseUrl": "https://fragment.com/terms",
   "privacyPolicyUrl": "https://fragment.com/privacy"
- 
 }
